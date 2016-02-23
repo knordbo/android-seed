@@ -1,6 +1,5 @@
-package {{company_name}}.android.{{app_package_name_prefix}};
+package com.{{company_name}}.android.{{app_package_name_prefix}};
 
-import com.byoutline.mockserver.NetworkType;
 import com.google.android.gms.tagmanager.TagManager;
 
 import static org.mockito.Mockito.RETURNS_MOCKS;
